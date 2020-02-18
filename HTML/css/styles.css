@@ -1,0 +1,19 @@
+body {
+  background-color: #f9f7f7;
+}
+
+hr {
+  border-style: dotted none none;
+  border-color: white;
+  border-width: 4px;
+  width: 5%;
+}
+
+h1 {
+  color: #3f72af;
+  text-transform: uppercase;
+}
+
+h3 {
+  color: #3f72af;
+}
